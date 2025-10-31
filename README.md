@@ -93,7 +93,7 @@ State encoder:
 ## Install packages
 1: After installing Clash Royale, run this command in your terminal:
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 2: Wait for the packages to install.
 
