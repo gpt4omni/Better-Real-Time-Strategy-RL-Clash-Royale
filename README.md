@@ -90,6 +90,12 @@ State encoder:
 
 2: Once at the Play Store, search for and install Clash Royale
 
+## Install packages
+1: After installing Clash Royale, run this command in your terminal:
+```
+pip install requirements.txt
+```
+2: Wait for the packages to install.
 
 # Setup
 Before running the program, certain modifications must be made to the configuration of the BlueStacks App Player and game
@@ -110,10 +116,3 @@ Window Location: This program uses snapshots of the computers screen in order to
 # Running the agent
 
 Go to MainLoop.py, sent the desired number of episodes, as well as the learn and train variables, and run.
-
-
-
-
-
-
-
